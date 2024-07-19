@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    background-image: url('https://media.istockphoto.com/id/1398142930/vector/magic-night-dark-blue-frame-with-sparkling-glitter-bokeh-and-light-art.jpg?s=612x612&w=0&k=20&c=qnu4qBbJMlQbQkv3o_O6S-PVAThZuo0izR0olhUBGCg=');
+    background-size: cover;
+    background-attachment: fixed;
+    align-items: center;
+    text-align: center;
+    color: antiquewhite;
+    margin-top: 60px;
+}
+.feedback-form {
+    
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-image: url('https://st4.depositphotos.com/13349494/23275/i/450/depositphotos_232751862-stock-photo-dark-blue-shabby-wooden-background.jpg');
+    border: 1px solid black;
+    color: #fff;
+    border-radius: 5px;
+}
+.gg
+{
+    color: rgb(179, 162, 52);
+}
+.content{
+    width: 93%;
+    padding: 12px;
+    border: 3px solid #ccc;
+   
+
+}
+
+
+.foter{
+    text-align: center;
+}
